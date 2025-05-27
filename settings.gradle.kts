@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "EduTrackPro"
 include(":app")
