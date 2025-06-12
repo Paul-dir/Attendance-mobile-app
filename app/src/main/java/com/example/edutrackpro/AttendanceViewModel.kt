@@ -16,3 +16,4 @@ class AttendanceViewModel(private val dao: AttendanceDao) : ViewModel() {
         }
     }
 }
+
